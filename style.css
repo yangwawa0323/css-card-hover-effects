@@ -86,6 +86,7 @@ body {
 	border-radius: 40px;
 	text-decoration: none;
 	margin-top: 20px;
+	color: #fff;
 }
 
 .container .card:nth-child(1) .circle,
